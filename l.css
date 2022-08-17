@@ -36,7 +36,7 @@ body {
     background-color: #FFFFFF;
 }
 .zuraas {
-    position: absolute;
+    position:static;
     width: 89.91px;
     height: 3.98px;
     background: #E5C37F;
