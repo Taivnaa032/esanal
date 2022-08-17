@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+}
+.section{
+  background-color: rgb(229, 33, 229);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+  padding-top: 100px;
+}
+.topic {
+  font-size: 40px;
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  top:500px
+}
+.up {
+  display: flex;
+  gap: 50px;
+}
+.down {
+  display: flex;
+  gap:50px;
+}
+.line {
+  width: 100px;
+  height: 1px;
+  background-color: rgb(102, 74, 74);
+}
+.comment{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+}
+p:nth-child(1){
+  color: white;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 21px;
+}
+p:nth-child(3){
+  color: yellow;
+}
+
+p:nth-child(2){
+  color:white;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.scrn{
+  margin: 125px 100px;
+  gap:50px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 90px;
+}
+.image-dir{
+  display: flex;
+}
+.text-dir{
+  display: flex;
+  flex-direction: column;
+}
+.image{
+  display: flex;
+  gap: 50px;
+}
+img{
+  border-radius: 50%;
+  height: 200px;
+}
