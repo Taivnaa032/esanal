@@ -259,6 +259,7 @@ body{
     text-align: center;
     flex-direction: column;
     gap: 15px;
+    border-radius: 0px;
 }
 .loa {
     background-color: #17C2A4;
@@ -344,7 +345,29 @@ body{
     gap: 50px;
   }
   img{
-    border-radius: 50%;
+    
     height: 200px;
   }
-  
+
+.container{
+    display: flex;
+    justify-items: flex end;
+    width: 100vw;
+    height: 60px;
+    background-color:rgb(52,75,142) ;
+    bottom:0vh;
+}
+.sug{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 20px;
+    gap: 150px;
+}
+.Facebook{
+    cursor: pointer;
+}
+.Facebook:hover{
+    color: aqua;
+}
