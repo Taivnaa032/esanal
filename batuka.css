@@ -1,0 +1,177 @@
+.biggest {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.list-1 {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 900px;
+    margin-left: 50px;
+    gap: 100px;
+    margin-top: 200px;
+}
+
+.list-2 {
+    margin-top: 200px;
+    border: 3px black solid;
+    border-bottom-left-radius: 295px;
+    box-shadow: 5px -10px;
+    width: 760px;
+    height: 760px;
+    background-image: url("../batuka.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hii {
+    font-size: 87px;
+    line-height: 90px;
+}
+
+.text-my {
+    font-size: 29px;
+    line-height: 45px;
+    color: #6B6868;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+
+}
+
+.button-blck {
+    background-color: white;
+    font-size: 32px;
+    border: 1px solid black;
+    width: 225px;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-white {
+    background-color: black;
+    font-size: 32px;
+    border: 1px solid black;
+    color: white;
+    width: 378px;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.batuka-img {
+    width: 560px;
+    height: 560px;
+    z-index: 0;
+}
+
+.skill-tab {
+    background-color: white;
+    margin-top: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.text-skill {
+    color: #F37A7A;
+    font-size: 32.5581px;
+    line-height: 48px;
+    font-style: normal;
+    margin-left: 600px;
+}
+
+.work {
+    font-size: 28.4884px;
+    line-height: 42px;
+    color: #818080;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.odo {
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.man-logo {
+    margin-top: -150px;
+    margin-left: -400px;
+    
+}
+.zaluu{
+    width:415px ;
+    height:350px;
+}
+
+.contact-me {
+    margin-top: 500px;
+
+
+}
+
+.blckman {
+    width: 500px;
+    height: 471px;
+    
+}
+
+.contact {
+    font-size: 40px;
+    line-height: 58px;
+    color: #F37A7A;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tulga {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.mail {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.eea {
+    width: 514px;
+    height: 100px;
+    font-size: 20px;
+    border-radius: 7px;
+    border: 1px solid gray;
+    text-decoration: underline  gray;
+}
+
+.em {
+    width: 515px;
+    height: 263px;
+    font-size: 20px;
+    border-radius: 7px;
+    border: 1px solid gray;
+}
+
+.send-tovch {
+    width: 182px;
+    height: 69px;
+    color: white;
+    background-color: #6860E2;
+    border: none;
+    border-radius: 7px;
+}
+
