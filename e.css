@@ -1,3 +1,4 @@
+
 .menu{
     width: 2050px;
     height: 595.88px;
@@ -57,3 +58,134 @@
     justify-content: center;
     margin-top: 100px;
 }
+
+body{
+    margin: 0;
+    background-color: #BDD1DF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.members{
+    display: flex;
+    justify-content: center;
+}
+.teachers{
+    display: flex;
+    justify-content: center;
+}
+.profile1{
+    margin-top: 50px;
+    justify-content: center;
+    display: flex;
+    gap: 100px;
+}
+.profile2{
+    margin-top: 100px;
+    justify-content: center;
+    display: flex;
+    gap: 100px;
+}
+.pe1{
+    border-radius: 50%;
+    border: 2px solid #000000;
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    background-image: url(bata.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pe2{
+    border-radius: 50%;
+    border: 2px solid #000000;
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    background-image: url(IMG_5285.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pe3{
+    border-radius: 50%;
+    border: 2px solid #000000;
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    background-image: url(batochir.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pe{
+    border-radius: 50%;
+    border: 2px solid #000000;
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    background-image: url(devo.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.names1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 180px;
+    
+    
+}
+
+.names2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 200px;
+    
+    
+}
+.job1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 160px;
+    color: #30BAE7;
+}
+.job2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 210px;
+    color: #30BAE7;
+}
+.tavn{
+    margin-left: 40px;
+}
+.txt0{
+    display: flex;
+    gap: 100px;
+    margin-left: 430px;
+    margin-top: 30px;
+}
+.border{    
+    height: 100px;
+    width: 200px;
+    background-color: #BDD1DF;
+}
+.niitleg{
+    width: 20px;
+    height: 20px;
+}
+.etseg{
+    display: flex;
+    margin-left: 460px;
+}
+.link{
+    margin-left: 20px;
+    text-decoration: none;
+}
+.link1{
+    margin-left: 240px;
+}
+.link2{
+    margin-left: 230px;
+}
+
