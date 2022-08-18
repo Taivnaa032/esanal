@@ -23,7 +23,7 @@
     box-shadow: 5px -10px;
     width: 760px;
     height: 760px;
-    background-image: url("../batuka.jpeg");
+    background-image: url("batuka.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -77,7 +77,7 @@
 
 .skill-tab {
     background-color: white;
-    margin-top: 500px;
+    margin-top: 300px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -108,93 +108,224 @@
 .man-logo {
     margin-top: -150px;
     margin-left: -400px;
-    
-}
-.zaluu{
-    width:415px ;
-    height:350px;
-}
-
-.contact-me {
-    margin-top: 500px;
-
 
 }
 
-.blckman {
-    width: 500px;
-    height: 471px;
-    
+.zaluu {
+    width: 415px;
+    height: 350px;
 }
 
-.contact {
-    font-size: 40px;
-    line-height: 58px;
-    color: #F37A7A;
+
+.project-tab {
+    width: 100vw;
+    height: 500px;
     display: flex;
-    justify-content: space-evenly;
+    margin-top: 300px;
+    flex-direction: column;
+
 }
 
-.tulga {
+.project-1 {
     display: flex;
     flex-direction: column;
-    gap: 30px;
     justify-content: center;
     align-items: center;
 }
 
-.mail {
+#apple {
+    margin-top: 50px;
+    color: #F37A7A;
+    font-size: 50px;
+    line-height: 45px;
+    font-family: 'Be Vietnam';
+}
+
+#grey {
+    color: #818080;
+    font-family: 'Be Vietnam';
+    font-size: 27px;
+    margin-top: 50px;
+}
+
+/* 
+
+.project-2 {
+    margin-top: 50px;
+    width: 2000px;
+    height: 2000px;
     display: flex;
-    justify-content: space-evenly;
-    margin-top: 100px;
+    flex-direction: row;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
 }
 
-.eea {
-    width: 514px;
-    height: 100px;
-    font-size: 20px;
-    border-radius: 7px;
-    border: 1px solid gray;
-    text-decoration: underline  gray;
-}
+.visitsite-1 {
 
-.em {
-    width: 515px;
-    height: 263px;
-    font-size: 20px;
-    border-radius: 7px;
-    border: 1px solid gray;
-}
-
-.send-tovch {
-    width: 182px;
-    height: 69px;
-    color: white;
-    background-color: #6860E2;
-    border: none;
-    border-radius: 7px;
-}
-
-.container{
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to right, aqua, darkorchid) 1;
+    width: 302.44px;
+    height: 430px;
     display: flex;
-    justify-items: flex end;
-    width: 100vw;
-    height: 60px;
-    background-color:rgb(52,75,142) ;
-    bottom:0vh;
-    margin-top: 100px;
+    flex-direction: row;
+    gap: 50px;
+    align-items: center;
 }
-.sug{
+
+.visitsite-2 {
+
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to right, aqua, darkorchid) 1;
+    width: 302.44px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+}
+
+.visitsite-3 {
+
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to right, aqua, darkorchid) 1;
+    width: 302.44px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+}
+
+.xxonuud {
+    width: 250.86px;
+    height: 212.17px;
+}
+.nasaicon{
+    display: flex;
+    justify-content: row;
+} */
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 70px;
+}
+
+.child {
+    margin-top: 70px;
+    width: 302px;
+    height: 400px;
+    /* background-color: #F37A7A; */
+    border-width: 6px;
+    border-style: solid;
+    border-image: linear-gradient(to right, #0D54BE 4.37%, #20ECD3 95.31%) 1;
+    gap: 100px;
+}
+
+.center {
     width: 100%;
     display: flex;
     justify-content: center;
+    font-size: 23.1457px;
+    line-height: 34px;
+    color: #818080
+}
+
+.nasa {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.visitsite {
+    color: #0571AD;
+    font-size: 23px;
+}
+
+.contact {
+    margin-top: 300px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 100px;
+}
+
+.contact-head {
+    color: #4A6CFA;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.inputs {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.xxa {
+    border: 3px solid #4A6CFA;
+    border-radius: 60px;
+    width: 210px;
+    height: 43.75px;
+}
+
+.xxe {
+    border: 3px solid #4A6CFA;
+    margin-top: 30px;
+    border-radius: 30px;
+    width: 460px;
+    height: 250px;
+}
+
+.tovch {
+    width: 289.09px;
+    height: 43.75px;
+    background-color: #4A6CFA;
     color: white;
-    margin-top: 20px;
-    gap: 150px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-size: 16px;
 }
-.Facebook{
-    cursor: pointer;
+
+.map {
+    height: 500px;
 }
-.Facebook:hover{
-    color: aqua;
+
+.xol{
+    
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+.footer-text{
+    color: #4A6CFA;
+    font-size: 48px;
+}
+.xol-tovch{
+    Width:105px;
+    Height:40.93px;
+    background-color:#4A6CFA ;
+    border: none;
+    border-radius: 17px;
+    color:white;
+    margin-top: 30px;
+
+}
+.footer-last{
+    margin-top: 30px;
+    color: #4A6CFA;
+    font-size: 10PX;
 }
