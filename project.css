@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-color:#E7F1F8;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 300px;
+    background-color: #E7F1F8;
+}
+.txt1{
+    justify-content: center;
+    width: 676.04px;
+    height: 99.98px;
+    margin-left: 820px;
+    margin-top: 60px;
+    font-size: 40.635px;
+    color: #3C4761; 
+}
+.zuras{
+    width: 90.35px;
+    height: 4.13px;
+    background: #BDD1DF;
+    opacity: 0.75;
+    margin-left: 1010px;
+    margin-bottom: 20px;
+}
+.txt2{
+    margin-left: 750px;
+    padding-bottom: 120px ;
+    justify-content: center;
+    align-items: center;
+    width: 641.77px;
+    height: 55.99px;
+    font-size: 18.2857px;
+    color: #3C4761; 
+}
+.uwuu{
+    display: flex;
+    justify-content: center;
+    margin-top: -50px;
+}
+.uwuu2{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+.profile1{
+    display: flex;
+    width: 40vw;
+    height: 480px;
+    justify-content: space-around;
+}
+.huree{
+    display:flex;
+    justify-content: center;
+    width: 240px;
+    height: 480px;
+    background-color:gray;
+}
+.pro1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #E7F1F8;
+}
+.zurag {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.name{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 147.46px;
+    height: 73.98px;
+    font-size: 24px;
+    color: #27283D;
+}
+.rule{
+    margin-left: 35px;
+    margin-top: -43px;
+    width: 151.62px;
+    height: 47.99px;
+    font-size: 16px;
+    color: #30BAE7;
+}
+.text{
+    text-align: center;
+    margin-top : -15px;
+    margin-left: 30px;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    margin-top: 45px;
+    margin-left: 50px;
+    width: 200px;
+    height: 46px;
+    gap: 15px;
+    background-color:#E7F1F8;
+}
+.fb{
+    margin-left: 5px;
+    height: 25px;
+    width: 25px;
+}
+.ins{
+    height: 30px;
+    width: 30px;
+    margin-top: -3px;
+}
+.twi{
+    height: 25px;
+    width: 25px;
+}
+.mail{
+    height: 25px;
+    width: 25px;
+}
