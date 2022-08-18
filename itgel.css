@@ -1,0 +1,264 @@
+.co {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.co-1 {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 900px;
+    margin-left: 50px;
+    gap: 100px;
+    margin-top: 200px;
+}
+
+.co-2 {
+    margin-top: 200px;
+    border: 3px black solid;
+    border-bottom-left-radius: 295px;
+    box-shadow: 5px -10px;
+    width: 760px;
+    height: 760px;
+    background-image: url(gigachad.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Hi {
+    font-size: 87px;
+    line-height: 90px;
+}
+
+.text {
+    font-size: 29px;
+    line-height: 45px;
+    color: #6B6868;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+
+}
+
+.button1 {
+    background-color: white;
+    font-size: 32px;
+    border: 1px solid black;
+    width: 225px;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button2 {
+    background-color: black;
+    font-size: 32px;
+    border: 1px solid black;
+    color: white;
+    width: 378px;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.pro {
+    color: #F37A7A;
+    display: flex;
+    justify-content: center;
+    font-size: 30.86px;
+}
+.tet {
+    color: #818080;
+    display: flex;
+    justify-content: center;
+    font-size: 30.86px;
+    margin-top: 30px;
+}
+
+
+.co-1 {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 900px;
+    margin-left: 50px;
+    gap: 100px;
+    margin-top: 200px;
+}
+
+.co-2 {
+    margin-top: 200px;
+    border: 3px black solid;
+    border-bottom-left-radius: 295px;
+    box-shadow: 5px -10px;
+    width: 760px;
+    height: 760px;
+    background-image: url(chad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nb {
+    font-size: 87px;
+    line-height: 90px;
+}
+
+.text {
+    font-size: 29px;
+    line-height: 45px;
+    color: #6B6868;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+
+}
+
+.btn1 {
+    background-color: white;
+    font-size: 32px;
+    border: 1px solid black;
+    width: 225px;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn2 {
+    background-color: black;
+    font-size: 32px;
+    border: 1px solid black;
+    color: white;
+    width: 378px;
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project {
+    display: flex;
+    justify-content: center;
+    color: #F37A7A;
+}
+
+.word {
+    display: flex;
+    justify-content: center;
+}
+
+.all {
+    display: flex;
+    margin-left: 850px;
+    justify-content: center;
+    ;
+    width: 302.44px;
+    height: 386.53px;
+    gap: 30px;
+    margin-top: 100px;
+}
+
+.pic {
+    border: aqua 2px solid;
+    text-align: center;
+}
+
+.ALL {
+    margin-top: 150px;
+
+}
+
+.blue {
+    margin-top: 70px;
+    color: blue;
+}
+body{
+    margin: 0;
+}
+.container{
+    display: flex;
+    justify-items: flex end;
+    width: 100vw;
+    height: 60px;
+    background-color:rgb(52,75,142) ;
+    margin-top: 100px;
+    bottom:0vh;
+}
+.sug{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 20px;
+    gap: 150px;
+}
+.Facebook{
+    cursor: pointer;
+}
+.Facebook:hover{
+    color: aqua;
+}
+ .contact {
+    margin-top: 300px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 100px;
+}
+
+.contact-head {
+    color: #4A6CFA;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.inputs {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.xxa {
+    border: 3px solid #4A6CFA;
+    border-radius: 60px;
+    width: 210px;
+    height: 43.75px;
+}
+
+.xxe {
+    border: 3px solid #4A6CFA;
+    margin-top: 30px;
+    border-radius: 30px;
+    width: 460px;
+    height: 250px;
+}
+
+.tovch {
+    width: 289.09px;
+    height: 43.75px;
+    background-color: #4A6CFA;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.map {
+    height: 500px;
+}
