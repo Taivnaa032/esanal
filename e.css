@@ -58,136 +58,129 @@
     justify-content: center;
     margin-top: 100px;
 }
-
 body{
     margin: 0;
-    background-color: #BDD1DF;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-color:#E7F1F8;
 }
-
-.members{
+.head{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 300px;
+    background-color: #E7F1F8;
+}
+.txt1{
+    justify-content: center;
+    width: 676.04px;
+    height: 99.98px;
+    margin-left: 820px;
+    margin-top: 60px;
+    font-size: 40.635px;
+    color: #3C4761; 
+}
+.zuras{
+    width: 90.35px;
+    height: 4.13px;
+    background: #BDD1DF;
+    opacity: 0.75;
+    margin-left: 1010px;
+    margin-bottom: 20px;
+}
+.txt2{
+    margin-left: 750px;
+    padding-bottom: 120px ;
+    justify-content: center;
+    align-items: center;
+    width: 641.77px;
+    height: 55.99px;
+    font-size: 18.2857px;
+    color: #3C4761; 
+}
+.uwuu{
     display: flex;
     justify-content: center;
+    margin-top: -50px;
 }
-.teachers{
+.uwuu2{
     display: flex;
     justify-content: center;
+    margin-top: 150px;
 }
 .profile1{
-    margin-top: 50px;
+    display: flex;
+    width: 40vw;
+    height: 480px;
+    justify-content: space-around;
+}
+.huree{
+    display:flex;
     justify-content: center;
-    display: flex;
-    gap: 100px;
+    width: 240px;
+    height: 480px;
+    background-color:gray;
 }
-.profile2{
-    margin-top: 100px;
+.pro1{
+    display: flex;
     justify-content: center;
-    display: flex;
-    gap: 100px;
-}
-.pe1{
-    border-radius: 50%;
-    border: 2px solid #000000;
-    padding: 20px;
-    width: 150px;
-    height: 150px;
-    background-image: url(bata.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.pe2{
-    border-radius: 50%;
-    border: 2px solid #000000;
-    padding: 20px;
-    width: 150px;
-    height: 150px;
-    background-image: url(IMG_5285.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.pe3{
-    border-radius: 50%;
-    border: 2px solid #000000;
-    padding: 20px;
-    width: 150px;
-    height: 150px;
-    background-image: url(batochir.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.pe{
-    border-radius: 50%;
-    border: 2px solid #000000;
-    padding: 20px;
-    width: 150px;
-    height: 150px;
-    background-image: url(devo.webp);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.names1{
-    display: flex;
-    flex-direction: row;
+    align-items: center;
+    flex-direction: column;
     justify-content: center;
-    gap: 180px;
-    
-    
+    background-color: #E7F1F8;
 }
-
-.names2{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 200px;
-    
-    
-}
-.job1{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 160px;
-    color: #30BAE7;
-}
-.job2{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 210px;
-    color: #30BAE7;
-}
-.tavn{
-    margin-left: 40px;
-}
-.txt0{
-    display: flex;
-    gap: 100px;
-    margin-left: 630px;
-    margin-top: 30px;
-}
-.border{    
-    height: 100px;
+.zurag {
+    height: 200px;
     width: 200px;
-    background-color: #BDD1DF;
+    border-radius: 50%;
 }
-.niitleg{
-    width: 20px;
-    height: 20px;
+.name{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 147.46px;
+    height: 73.98px;
+    font-size: 24px;
+    color: #27283D;
 }
-.etseg{
+.rule{
+    margin-left: 35px;
+    margin-top: -43px;
+    width: 151.62px;
+    height: 47.99px;
+    font-size: 16px;
+    color: #30BAE7;
+}
+.text{
+    text-align: center;
+    margin-top : -15px;
+    margin-left: 30px;
+}
+.logo{
     display: flex;
-    margin-left: 670px;
+    flex-direction: row;
+    margin-top: 45px;
+    margin-left: 50px;
+    width: 200px;
+    height: 46px;
+    gap: 15px;
+    background-color:#E7F1F8;
 }
-.link{
-    margin-left: 20px;
-    text-decoration: none;
-    gap: 30px;
+.fb{
+    margin-left: 5px;
+    height: 25px;
+    width: 25px;
 }
-.link1{
-    margin-left: 240px;
+.ins{
+    height: 30px;
+    width: 30px;
+    margin-top: -3px;
 }
-.link2{
-    margin-left: 230px;
+.twi{
+    height: 25px;
+    width: 25px;
+}
+.mail{
+    height: 25px;
+    width: 25px;
 }
 
 
