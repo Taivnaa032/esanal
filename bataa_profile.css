@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.tete {
+  height: 700px;
+  width: 100vw;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.toto {
+  padding-top: 150px;
+  padding-left: 50px;
+}
+.tata {
+  display: flex;
+}
+.adil {
+  font-size: 56.62px;
+}
+.txt2 {
+  margin-top: 20px;
+}
+.txt3 {
+  margin-top: 20px;
+  color: rgb(255, 90, 112);
+}
+.txt4 {
+  margin-top: 20px;
+  font-size: 18.87px;
+}
+.zuraas {
+  display: inline-block;
+  height: 3px;
+  width: 125px;
+  background-color: black;
+  margin-bottom: 3px;
+  margin-left: 20px;
+}
+.img {
+  margin-top: 70px;
+}
+.circle {
+  margin-top: 110px;
+}
+.images {
+  display: flex;
+}
+.image1 {
+  margin-top: -500px;
+}
+.zurg1 {
+  margin-left: 800px;
+}
+.image2 div img {
+  margin-top: -400px;
+  margin-left: 250px;
+  height: 100px;
+  width: 100px;
+}
+.dot {
+  height: 55px;
+  width: 55px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 250px;
+  margin-top: -400px;
+  box-shadow: -3px 22px 115px 20px rgba(0, 0, 0, 0.84);
+  margin-bottom: 400px;
+}
+.dot2 {
+  height: 105px;
+  width: 105px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 250px;
+  margin-top: -100px;
+  box-shadow: -3px -1px 35px -10px rgba(0, 0, 0, 0.84);
+}
+.dot3 {
+  height: 75px;
+  width: 75px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 150px;
+  margin-top: 300px;
+  box-shadow: -3px 11px 105px 5px rgba(0, 0, 0, 0.84);
+}
+.bete {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -450px;
+  margin-right: 500px;
+}
+.bata {
+  height: 500px;
+  width: 20vw;
+}
+.kask {
+  height: 500px;
+  width: 20vw;
+  box-shadow: 23px -23px 19px 3px rgba(222, 23, 23, 0.8);
+}
+.suga {
+  width: 100vw;
+  margin-top: 200px;
+}
+.hiho {
+  width: 100vw;
+  margin-bottom: 300px;
+}
+.xol{
+    
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.footer-text{
+    color: #4A6CFA;
+    font-size: 48px;
+}
+.xol-tovch{
+    Width:105px;
+    Height:40.93px;
+    background-color:#4A6CFA ;
+    border: none;
+    border-radius: 17px;
+    color:white;
+    margin-top: 30px;
+
+}
+.footer-last{
+    margin-top: 30px;
+    color: #4A6CFA;
+    font-size: 10PX;
+}
