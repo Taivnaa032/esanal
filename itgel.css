@@ -131,3 +131,54 @@ body{
 .Facebook:hover{
     color: aqua;
 }
+.contact {
+    margin-top: 300px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 100px;
+}
+
+.contact-head {
+    color: #4A6CFA;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.inputs {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.xxa {
+    border: 3px solid #4A6CFA;
+    border-radius: 60px;
+    width: 210px;
+    height: 43.75px;
+}
+
+.xxe {
+    border: 3px solid #4A6CFA;
+    margin-top: 30px;
+    border-radius: 30px;
+    width: 460px;
+    height: 250px;
+}
+
+.tovch {
+    width: 289.09px;
+    height: 43.75px;
+    background-color: #4A6CFA;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.map {
+    height: 500px;
+}
